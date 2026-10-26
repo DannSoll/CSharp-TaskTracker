@@ -18,4 +18,8 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\TaskTracker.App\TaskTracker.App.csproj" />
+  </ItemGroup>
+
 </Project>
